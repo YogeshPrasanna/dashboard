@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Cards from "../Home/Cards/index";
 import MemmoryUsage from "../Home/MemoryUsage/Index";
